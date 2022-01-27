@@ -25,3 +25,4 @@ A simple code to increase the visitor count in github
 
 
 #### Note : The more visits you want to increase, the more time it takes.
+####        Tested On Debian And Arch Linux
