@@ -14,10 +14,12 @@ A simple code to increase the visitor count in github
 * pip install -r requirements.txt
 * python3 increase.py
 
+#### <<< If you copy , Then Give me The Credits >>>
+
 ## Working:
 
 ![image](https://github.com/greyhatguy007/increase-visitor-counter/blob/main/working.png)
 
-### <<< If you copy , Then Give me The Credits >>>
+
 
 #### Note : The more visits you want to increase, the more time it takes.
