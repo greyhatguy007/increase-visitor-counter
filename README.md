@@ -9,7 +9,6 @@ A simple code to increase the visitor count in github
 
 ## Installation :
 
-`
 * `git clone https://github.com/greyhatguy007/increase-visitor-counter.git'
 * `cd increase-visitor-counter/'
 * `pip install -r requirements.txt'
