@@ -8,8 +8,9 @@ A simple code to increase the visitor count in github
   - chrome webdriver
 
 ## Installation :
-
-* `apt update`
+'''
+apt update
+'''`
 * `apt install git -y`
 * `git clone https://github.com/greyhatguy007/increase-visitor-counter.git
 * `cd increase-visitor-counter/
