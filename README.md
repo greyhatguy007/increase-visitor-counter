@@ -19,3 +19,5 @@ A simple code to increase the visitor count in github
 ![image](https://github.com/greyhatguy007/increase-visitor-counter/blob/main/working.png)
 
 ### <<< If you copy , Then Give me The Credits >>>
+
+#### Note : The more visits you want to increase, the more time it takes.
