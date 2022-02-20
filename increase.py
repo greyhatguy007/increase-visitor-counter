@@ -21,4 +21,5 @@ browser = webdriver.Chrome(options=options)
 
 for _1 in range(0,count):
     browser.get(url)
+    print((_i+1)*100/(count), " PERCENT DONE")
 browser.close()
