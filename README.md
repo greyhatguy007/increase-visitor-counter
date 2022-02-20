@@ -11,10 +11,13 @@ A simple code to increase the visitor count in github
 
 ## Installation :
 
-* git clone https://github.com/greyhatguy007/increase-visitor-counter.git
-* cd increase-visitor-counter/
-* pip install -r requirements.txt
-* python3 increase.py
+> git clone https://github.com/greyhatguy007/increase-visitor-counter.git 
+
+> cd increase-visitor-counter/
+
+> pip install -r requirements.txt
+
+> python3 increase.py
 
 #### <<< If you copy , Then Give me The Credits >>>
 
@@ -22,7 +25,12 @@ A simple code to increase the visitor count in github
 
 ![image](https://github.com/greyhatguy007/increase-visitor-counter/blob/main/working.png)
 
-
+## Release updates:
+ - As a part of improvement, threading feature has been enabled with selenium.
+ - The perfomance varies with different parameters
+ - The graph below Illustrates the Perfomance of Threading
+<br></br>
+![2d plot](https://github.com/greyhatguy007/increase-visitor-counter/blob/main/threading_analysis/plot.png)
 
 #### Note : The more visits you want to increase, the more time it takes.
 ####        Tested On Debian And Arch Linux
