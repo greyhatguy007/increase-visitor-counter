@@ -30,7 +30,7 @@ A simple code to increase the visitor count in github
  - The perfomance varies with different parameters
  - The graph below Illustrates the Perfomance of Threading
 <br></br>
-![2d plot](https://github.com/greyhatguy007/increase-visitor-counter/blob/main/threading_analysis/plot.png)
+![2d plot](https://github.com/greyhatguy007/increase-visitor-counter/blob/main/threading_analysis/2d_plot.png)
 
 #### Note : The more visits you want to increase, the more time it takes.
 ####        Tested On Debian And Arch Linux
