@@ -23,7 +23,7 @@ A simple code to increase the visitor count in github
 
 ## Working:
 
-![image] (https://github.com/greyhatguy007/increase-visitor-counter/blob/main/working.png)
+![image](https://github.com/greyhatguy007/increase-visitor-counter/blob/main/working.png)
 
 ## Release updates:
  - As a part of improvement, threading feature has been enabled with selenium.
